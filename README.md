@@ -79,4 +79,21 @@ The dataset contains booking, customer, destination, activity, accommodation, an
 Data Analyst | Statistics Graduate | Power BI | SQL | Excel | Python | R
 
 
+## 📸 Dashboard Screenshots
+
+### 🏠 Home
+![Home](Home.png)
+
+### 📊 Executive Overview
+![Executive Overview](Executive-Overview.png)
+
+### 📍 Destination Intelligence
+![Destination Intelligence](Destination-Intelligence.png)
+
+### 📈 Revenue & Seasonal Analysis
+![Revenue & Seasonal Analysis](Revenue-Seasonal-Analysis.png)
+
+### 👤 Customer Experience Analytics
+![Customer Experience Analytics](Customer-Experience-Analytics.png)
+
 
